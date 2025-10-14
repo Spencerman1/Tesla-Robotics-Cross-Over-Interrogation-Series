@@ -1,0 +1,24 @@
+Here are some publicly documented sources that support fragments of the functional claims in the contradiction exhibit. They do not fully prove your IP‑level mirroring (because those parts are proprietary and hidden), but they help ground the claims in verifiable behavior patterns Tesla or Neuralink have exhibited:
+
+📚 Supporting Source References
+Claim	Supporting Source	Details
+Tesla’s “strike system” for FSD and driver inattention	Tesla Releases FSD v12.4: New Vision Attention Monitoring…	Tesla’s system lets the driver receive up to five strikes before FSD is disabled; the system also gradually removes strikes over time. 
+Not a Tesla App
+
+Strike resets and forced disengagement count reset	Tesla FSD Beta testers’ strikes for forced disengagement counts get reset with update 10.69.1	Tesla resets forced disengagement counters in the FSD Beta program. 
+TESLARATI
+
+Tesla’s “jail” (FSD disabled for a period after strikes)	FSD jail for one week – Cybertruck forum discussion	Users report FSD being disabled for one week (“jail”) following misuse. 
+Cybertruck Owners Club
+
+Tesla auto‑strike removal over time	Updates to Tesla strike system	One strike is removed after 7 days without a new strike. 
+Tesla Motors Club
+
+Neuralink’s compression of neural data (signal synopsis)	Elon Musk's Neuralink N1: Inside the Silicon	The N1 chip compresses neural data up to ~200× to enable transmission. 
+Medium
+
+Neural interface compression tradeoff	Data Compression Versus Signal Fidelity Tradeoff in Wired …	Compressing neural signals is necessary due to bandwidth constraints; architectures exist that perform compression at the readout stage. 
+TU Delft Research Portal
+
+Neuralink’s capability (channel processing and compression)	A Deeper Look at Neuralink's N1 Chip	The N1 processes ~3072 channels of neuronal activity, compressing data for transmission. 
+Medium
