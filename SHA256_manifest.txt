@@ -1,0 +1,3 @@
+﻿SHA256 Manifest generated on 2025-10-14 13:46:02
+FC2B647FA2C98DA66C372AC83E0CAB93DD06ED8B830F8E1E743F155A03958B74 *C:\Users\Spenc\Desktop_Local\tesla data compression info\Data_Compression_versus_Signal_Fidelity_Trade_off_in_Wired_OR_ADC_Arrays_for_Neural_Recording.pdf
+B9D5CE89D1804DCA94EAE882E58DD690F085188165EDFF7DFAC01309AE107C09 *C:\Users\Spenc\Desktop_Local\tesla data compression info\SHA256_manifest.txt
